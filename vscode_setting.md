@@ -1,3 +1,4 @@
+```
 vscode-icons
 
 python配置:
@@ -45,3 +46,4 @@ go get -u -v github.com/tpng/gopkgs
 go get -u -v github.com/newhook/go-symbols  
 go get -u -v golang.org/x/tools/cmd/guru 
 
+```
