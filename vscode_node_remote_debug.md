@@ -1,4 +1,7 @@
 node --debug=5858 app.js
+ 
+--debug-brk
+选项用于让程序停止在程序源码的第一行。
 
 lanchu.json添加配置
 
